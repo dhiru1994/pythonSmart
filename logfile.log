@@ -1,0 +1,9 @@
+2022-03-24 22:04:23,588 :INFO : test_formSubmission :first name is Rahul
+2022-03-24 22:04:34,539 :INFO : test_e2e :getting all the card titles
+2022-03-24 22:04:34,587 :INFO : test_e2e :iphone X
+2022-03-24 22:04:34,595 :INFO : test_e2e :Samsung Note 8
+2022-03-24 22:04:34,626 :INFO : test_e2e :Nokia Edge
+2022-03-24 22:04:34,642 :INFO : test_e2e :Blackberry
+2022-03-24 22:04:34,969 :INFO : test_e2e :Entering country name as ind
+2022-03-24 22:04:40,717 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
